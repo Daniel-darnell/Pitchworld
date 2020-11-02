@@ -1,0 +1,3 @@
+Hello {{user.username}}
+Welcome o PitchWorld
+We are elated to have you on board please proceeed to signing in or add your picth....easy right? Have fun at it. Adios!!
